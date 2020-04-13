@@ -8,5 +8,6 @@
 </head>
 <body>
 <h2>Welcome to PSNA College of Engineering and Technology</h2>
+<h3>Learn and gain knowledge</h3>
 </body>
 </html>
