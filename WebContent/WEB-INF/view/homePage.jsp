@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Welcome to Home Page</h2>
+<h2>Welcome to PSNA College of Engineering and Technology</h2>
 </body>
 </html>
